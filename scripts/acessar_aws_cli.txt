@@ -1,0 +1,13 @@
+#Primeiro faça um teste para saber se na sua maquina tem um "Usuario de Cliente SSH" para testar abra um terminal e digite SSH. Se houver retorno, sua maquina tem, se não houver precisa ser instalado.
+
+#Abra a pasta que você salvou as chaves geradas na etapa de configuração da maquina na AWS.
+#Abra a pasta no terminal.
+
+#Para conectar a maquina clique na instancia:
+1. clique em conectar
+2. clique na aba cliente SSH
+3. copie o ssh -i de exemplo
+
+Execute o comando no terminal, lembre-se de estar na pasta.
+
+Execute os comandos que estão no arquivo "comandos_docker.txt"
